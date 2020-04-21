@@ -1,0 +1,9 @@
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\obj\Debug\netcoreapp2.1\MandatoryASCHenrik.csprojAssemblyReference.cache
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\obj\Debug\netcoreapp2.1\MandatoryASCHenrik.csproj.CoreCompileInputs.cache
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\obj\Debug\netcoreapp2.1\MandatoryASCHenrik.AssemblyInfoInputs.cache
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\obj\Debug\netcoreapp2.1\MandatoryASCHenrik.AssemblyInfo.cs
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\bin\Debug\netcoreapp2.1\MandatoryASCHenrik.deps.json
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\bin\Debug\netcoreapp2.1\MandatoryASCHenrik.dll
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\bin\Debug\netcoreapp2.1\MandatoryASCHenrik.pdb
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\obj\Debug\netcoreapp2.1\MandatoryASCHenrik.dll
+C:\Users\hnybo\source\repos\MandatoryASCHenrik\MandatoryASCHenrik\obj\Debug\netcoreapp2.1\MandatoryASCHenrik.pdb
